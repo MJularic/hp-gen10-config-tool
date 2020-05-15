@@ -1,0 +1,22 @@
+{
+    "servers": [
+        {
+            "name": "",
+            "ilo_ip": "",
+            "ilo_username": "",
+            "ilo_password": "",
+            "disk_config": [
+                    {
+                        "disk_size_GB": ,
+                        "disk_number": ,
+                        "raid_type": ""
+                    },
+                    {
+                        "disk_size_GB": ,
+                        "disk_number": ,
+                        "raid_type": ""
+                    }
+                ]
+            }   
+    ]
+}
